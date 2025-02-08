@@ -1,7 +1,3 @@
-# 💫 About Me:
-# 👋 Hi, I'm Mayank!  <br><br>## 🚀 About Me  <br>- 🔥 Passionate about learning new skills and exploring technology.  <br>- 🌱 Currently diving deep into **Artificial Intelligence** and **Machine Learning**.  <br>- 🧑🏻‍💻 Skilled in **C, C++, Python, and Core Java**.  <br>- 🌐 Experienced with **Web Technologies**:  <br>  - Frontend: **HTML, CSS, JavaScript, React**  <br>  - Backend: **Node.js**  <br>- 🗄️ Knowledgeable in **Databases**: **MySQL**  <br>- 💻 Proficient in **Windows & Linux** environments.  <br><br>## 📫 Get in Touch  <br>- 📧 Email: **02mayankk@gmail.com**  <br><br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/01mayank/) 
 
