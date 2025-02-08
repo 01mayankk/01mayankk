@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @mayank
-- 👀 I’m interested in learning new skills.
-- 🌱 I’m currently learning Python and Javascript.
-- 🧑🏻‍💻 I'm good at C, C++, Python and Core Java.
-- 📫 How to reach me ... Email me on: 02mayankk@gmail.com
-
-<!---
-01mayankk/01mayankk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Mayank!
+🚀 About Me
+🔥 Passionate about learning new skills and exploring technology.
+🌱 Currently diving deep into Artificial Intelligence and Machine Learning.
+🧑🏻‍💻 Skilled in C, C++, Python, and Core Java.
+🌐 Experienced with Web Technologies:
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js
+🗄️ Knowledgeable in Databases: MySQL
+💻 Proficient in Windows & Linux environments.
+📫 Get in Touch
+📧 Email: 02mayankk@gmail.com
+💼 GitHub: @01mayankk
