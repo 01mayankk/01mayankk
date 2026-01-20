@@ -76,6 +76,16 @@ me = Developer()
 &nbsp;&nbsp;
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/themayankk)
 &nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/01mayank/)
+&nbsp;&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/01mayankk)
+
+</div>
+
+<div align="center">
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/01mayankk)
+&nbsp;&nbsp;
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@01mayank/)
 &nbsp;&nbsp;
 [![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/01mayank)
